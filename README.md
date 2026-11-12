@@ -1,7 +1,5 @@
 
 
-<h1 align="center">Hi, I'm Sheen! 👋</h1>
-
 <h3 align="center">
   🧬 Life Science Student | Computational Biology | Health care AI
 </h3>
@@ -12,7 +10,7 @@
 
 ---
 
-## 🌱 About Me
+# 🌱 About Me
 
 - 🎓 B.Sc. Life Science student majoring in Computational Biology
 - 🧬 Interested in Bioinformatics and Genomics
@@ -21,15 +19,14 @@
 - 📊 Exploring computational approaches to biological research
 
 --
-
-## 🔬 Currently Working On
+🔬 Currently Working On
 
 - Developing an ML-based Diabetes Prediction Project using Python.
 - Strengthening skills in data preprocessing, exploratory data analysis, and machine learning.
 - Exploring bioinformatics applications in genomics and disease research.
 
 --
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 
 **Programming**
 - Python (Basic)
@@ -41,7 +38,7 @@
 
 ---
 
-## 📂 My Projects
+📂 My Projects
 
 - 🧬 GC Content Calculator
 - 🧪 More bioinformatics projects coming soon!
