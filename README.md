@@ -9,7 +9,7 @@
 
 ---
 
-** 🌱 About Me**
+ 🌱 **About Me**
 
 - 🎓 B.Sc. Life Science student majoring in Computational Biology
 - 🧬 Interested in Bioinformatics and Genomics
