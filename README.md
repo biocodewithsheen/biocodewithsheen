@@ -17,7 +17,7 @@
 - 🔬 Interested in NGS, Healthcare AI and Drug Discovery
 - 📊 Exploring computational approaches to biological research
 
---
+---
 🔬 **Currently Working On**
 
 - Developing an ML-based Diabetes Prediction Project using Python.
@@ -40,7 +40,7 @@ Other Skills
 📂 **My Projects**
 
 - 🧬 GC Content Calculator
-- 🧪 More bioinformatics projects coming soon!
+-  More bioinformatics projects coming soon!
 
 ---
 
